@@ -1,0 +1,6 @@
+c:\users\joanna\documents\visual studio 2012\Projects\BondCalculator\BondCalculator\bin\Debug\BondCalculator.exe.config
+C:\Users\joanna\documents\visual studio 2012\Projects\BondCalculator\BondCalculator\bin\Debug\BondCalculator.exe
+C:\Users\joanna\documents\visual studio 2012\Projects\BondCalculator\BondCalculator\bin\Debug\BondCalculator.pdb
+C:\Users\joanna\documents\visual studio 2012\Projects\BondCalculator\BondCalculator\obj\Debug\BondCalculator.csprojResolveAssemblyReference.cache
+C:\Users\joanna\documents\visual studio 2012\Projects\BondCalculator\BondCalculator\obj\Debug\BondCalculator.exe
+C:\Users\joanna\documents\visual studio 2012\Projects\BondCalculator\BondCalculator\obj\Debug\BondCalculator.pdb
